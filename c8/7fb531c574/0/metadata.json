@@ -1,0 +1,41 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "c87fb531c574",
+  "session_id": "01a1b672-de7c-7f23-8699-3a54164e62e3",
+  "strategy": "manual-commit",
+  "created_at": "2026-11-07T17:28:38.2524747Z",
+  "branch": "codex/chat-scope-and-live-mode",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "README.md",
+    "backend/README.md",
+    "backend/weatherlens_backend/assistant.py",
+    "frontend/README.md",
+    "frontend/src/App.jsx"
+  ],
+  "agent": "Codex",
+  "model": "gpt-6.1-sol",
+  "turn_id": "f420b24489a5",
+  "compact_transcript_start": 0,
+  "token_usage": {
+    "input_tokens": 517802,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 44324096,
+    "output_tokens": 141881,
+    "api_call_count": 219
+  },
+  "redaction": {
+    "replacements": 22039,
+    "layers": {
+      "betterleaks": 22,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 120,
+      "credentialed_uri": 0,
+      "entropy": 24225,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}
