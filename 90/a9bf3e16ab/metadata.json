@@ -1,0 +1,42 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "90a9bf3e16ab",
+  "strategy": "manual-commit",
+  "branch": "codex/ask-conversation-copy",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "backend/weatherlens_backend/assistant.py",
+    "frontend/src/App.jsx"
+  ],
+  "sessions": [
+    {
+      "metadata": "/90/a9bf3e16ab/0/metadata.json",
+      "transcript": "/90/a9bf3e16ab/0/full.jsonl",
+      "compact_transcript": "/90/a9bf3e16ab/0/transcript.jsonl",
+      "content_hash": "/90/a9bf3e16ab/0/content_hash.txt",
+      "prompt": "/90/a9bf3e16ab/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 13094,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 2185728,
+    "output_tokens": 6900,
+    "api_call_count": 14,
+    "subagent_tokens_complete": true
+  },
+  "redaction": {
+    "replacements": 74124,
+    "layers": {
+      "betterleaks": 38,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 150,
+      "credentialed_uri": 0,
+      "entropy": 76268,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}

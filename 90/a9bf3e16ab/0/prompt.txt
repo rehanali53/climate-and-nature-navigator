@@ -1,0 +1,5 @@
+Don't write temporary connection failures are retried etc in response of question initially. 
+
+Also it answers with I am also here to support you with questions regarding the Since AI 2026 challenge brief.
+
+It should not mention Since AI 2026 challenge brief in its responses.
