@@ -1,0 +1,44 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "32a4783f8f15",
+  "strategy": "manual-commit",
+  "checkpoints_count": 4,
+  "files_touched": null,
+  "sessions": [
+    {
+      "metadata": "/32/a4783f8f15/0/metadata.json",
+      "transcript": "/32/a4783f8f15/0/full.jsonl",
+      "compact_transcript": "/32/a4783f8f15/0/transcript.jsonl",
+      "content_hash": "/32/a4783f8f15/0/content_hash.txt",
+      "prompt": "/32/a4783f8f15/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 72884,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 17429248,
+    "output_tokens": 69399,
+    "api_call_count": 53,
+    "subagent_tokens_complete": false
+  },
+  "redaction": {
+    "replacements": 2443,
+    "layers": {
+      "betterleaks": 2,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 11,
+      "credentialed_uri": 0,
+      "entropy": 2434,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  },
+  "linked_commits": [
+    {
+      "sha": "329c985746002a5cee54521e3baf82c4a40025e3",
+      "repo": "gh/rehanali53/climate-and-nature-navigator"
+    }
+  ]
+}
