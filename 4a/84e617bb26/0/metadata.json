@@ -1,0 +1,48 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "4a84e617bb26",
+  "session_id": "01a1b672-de7c-7f23-8699-3a54164e62e3",
+  "strategy": "manual-commit",
+  "created_at": "2026-11-07T19:36:18.9177742Z",
+  "branch": "codex/emissions-year-sources",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "frontend/README.md",
+    "frontend/src/components/InventorySources.jsx",
+    "frontend/src/lib/api.js",
+    "frontend/src/lib/connected-screens.jsx",
+    "frontend/src/screens/Inventory.jsx",
+    "frontend/src/styles.css"
+  ],
+  "agent": "Codex",
+  "model": "gpt-6.1-sol",
+  "turn_id": "4ef61c5a5081",
+  "checkpoint_transcript_start": 2784,
+  "transcript_lines_at_start": 2784,
+  "compact_transcript_start": 541,
+  "token_usage": {
+    "input_tokens": 103541,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 2692480,
+    "output_tokens": 20014,
+    "api_call_count": 33,
+    "subagent_tokens_complete": true
+  },
+  "redaction": {
+    "replacements": 42620,
+    "layers": {
+      "betterleaks": 28,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 142,
+      "credentialed_uri": 0,
+      "entropy": 44782,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  },
+  "session_metrics": {
+    "turn_count": 7
+  }
+}
