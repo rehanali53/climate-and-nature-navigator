@@ -1,0 +1,53 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "38306b6c8c2a",
+  "strategy": "manual-commit",
+  "branch": "codex/elevenlabs-voice-chat",
+  "checkpoints_count": 3,
+  "files_touched": [
+    "backend/README.md",
+    "backend/voice.env.example",
+    "backend/weatherlens_backend/app.py",
+    "backend/weatherlens_backend/assistant.py",
+    "backend/weatherlens_backend/config.py",
+    "backend/weatherlens_backend/navigator_workflows.py",
+    "backend/weatherlens_backend/voice.py",
+    "frontend/README.md",
+    "frontend/src/App.jsx",
+    "frontend/src/lib/VoiceChat.jsx",
+    "frontend/src/lib/api.js",
+    "frontend/src/lib/voice-session.js",
+    "frontend/src/styles.css"
+  ],
+  "sessions": [
+    {
+      "metadata": "/38/306b6c8c2a/0/metadata.json",
+      "transcript": "/38/306b6c8c2a/0/full.jsonl",
+      "compact_transcript": "/38/306b6c8c2a/0/transcript.jsonl",
+      "content_hash": "/38/306b6c8c2a/0/content_hash.txt",
+      "prompt": "/38/306b6c8c2a/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 73868,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 10553088,
+    "output_tokens": 48639,
+    "api_call_count": 44,
+    "subagent_tokens_complete": false
+  },
+  "redaction": {
+    "replacements": 26588,
+    "layers": {
+      "betterleaks": 24,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 131,
+      "credentialed_uri": 0,
+      "entropy": 28765,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}
