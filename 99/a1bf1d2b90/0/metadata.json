@@ -29,14 +29,14 @@
     "subagent_tokens_complete": true
   },
   "redaction": {
-    "replacements": 34467,
+    "replacements": 38948,
     "layers": {
-      "betterleaks": 26,
+      "betterleaks": 28,
       "connection_string": 0,
       "credential_key": 0,
       "credential_value": 131,
       "credentialed_uri": 0,
-      "entropy": 36642,
+      "entropy": 41121,
       "key_context": 0,
       "provider_token": 0,
       "shell_stdin": 0
