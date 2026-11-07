@@ -31,9 +31,9 @@
     "subagent_tokens_complete": true
   },
   "redaction": {
-    "replacements": 53819,
+    "replacements": 53821,
     "layers": {
-      "betterleaks": 30,
+      "betterleaks": 32,
       "connection_string": 0,
       "credential_key": 0,
       "credential_value": 144,
