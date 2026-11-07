@@ -1,0 +1,46 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "8b4ddb89d79d",
+  "strategy": "manual-commit",
+  "branch": "codex/restore-ui-cached-data",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "frontend/README.md",
+    "frontend/src/lib/ClimateView.jsx",
+    "frontend/src/lib/LiveFreight.jsx",
+    "frontend/src/lib/RestoredFreight.jsx",
+    "frontend/src/lib/RestoredScreens.jsx",
+    "frontend/src/lib/ui-data.js",
+    "frontend/src/styles.css"
+  ],
+  "sessions": [
+    {
+      "metadata": "/8b/4ddb89d79d/0/metadata.json",
+      "transcript": "/8b/4ddb89d79d/0/full.jsonl",
+      "compact_transcript": "/8b/4ddb89d79d/0/transcript.jsonl",
+      "content_hash": "/8b/4ddb89d79d/0/content_hash.txt",
+      "prompt": "/8b/4ddb89d79d/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 1144,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 76032,
+    "output_tokens": 496,
+    "api_call_count": 1
+  },
+  "redaction": {
+    "replacements": 72175,
+    "layers": {
+      "betterleaks": 32,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 150,
+      "credentialed_uri": 0,
+      "entropy": 74325,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}
