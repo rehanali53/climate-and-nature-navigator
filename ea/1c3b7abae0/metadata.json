@@ -1,0 +1,40 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "ea1c3b7abae0",
+  "strategy": "manual-commit",
+  "branch": "codex/overview-chart-connection",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "frontend/src/lib/RestoredScreens.jsx"
+  ],
+  "sessions": [
+    {
+      "metadata": "/ea/1c3b7abae0/0/metadata.json",
+      "transcript": "/ea/1c3b7abae0/0/full.jsonl",
+      "compact_transcript": "/ea/1c3b7abae0/0/transcript.jsonl",
+      "content_hash": "/ea/1c3b7abae0/0/content_hash.txt",
+      "prompt": "/ea/1c3b7abae0/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 20351,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 1391744,
+    "output_tokens": 4857,
+    "api_call_count": 16
+  },
+  "redaction": {
+    "replacements": 73029,
+    "layers": {
+      "betterleaks": 34,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 150,
+      "credentialed_uri": 0,
+      "entropy": 75177,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}
