@@ -1,0 +1,50 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "21ca41a3507c",
+  "strategy": "manual-commit",
+  "branch": "codex/restore-ui-cached-data",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "backend/scripts/export_frontend_cache.py",
+    "backend/weatherlens_backend/navigator_api.py",
+    "backend/weatherlens_backend/navigator_pathways.py",
+    "backend/weatherlens_backend/navigator_presentation.py",
+    "frontend/src/components/Analysis.jsx",
+    "frontend/src/lib/BackendGate.jsx",
+    "frontend/src/lib/api.js",
+    "frontend/src/lib/connected-screens.jsx",
+    "frontend/src/lib/result-cache.js",
+    "frontend/vite.config.js"
+  ],
+  "sessions": [
+    {
+      "metadata": "/21/ca41a3507c/0/metadata.json",
+      "transcript": "/21/ca41a3507c/0/full.jsonl",
+      "compact_transcript": "/21/ca41a3507c/0/transcript.jsonl",
+      "content_hash": "/21/ca41a3507c/0/content_hash.txt",
+      "prompt": "/21/ca41a3507c/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 120743,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 14737920,
+    "output_tokens": 65461,
+    "api_call_count": 48,
+    "subagent_tokens_complete": true
+  },
+  "redaction": {
+    "replacements": 72175,
+    "layers": {
+      "betterleaks": 32,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 150,
+      "credentialed_uri": 0,
+      "entropy": 74325,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  }
+}

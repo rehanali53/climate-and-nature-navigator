@@ -1,0 +1,14 @@
+The initial data should be cached or available on frontend in someway so that it doesn't require calculation on every time. and the new frontend is entirely different from the one that we had before. The animation that was on overview before was good. Have some of those elements in theres. The connecting lines are missing. The freight UI was good what it was before keep that the new freight ui is not good. 
+
+On the pathway changing the year should only update the values it changes the entire screen. Use the same UI as it was before, same fonts same design same things as before
+
+
+The source climate grid cells visualization is useless. The line graph of climate risk is not very usable make it more visually asthetic and usable. 
+
+From start there should be no loading on frontend initially. 
+
+Use the reset if usage expires.
+
+---
+
+Continue
