@@ -1,0 +1,3 @@
+The Ask AI is not working, it returned this: Source response · The AI provider returned HTTP 503. Check the model ID and key for 400/401/403, or quota and rate limits for 429.
+
+Relevant source excerpts are attached. They have not been turned into a validated recommendation.

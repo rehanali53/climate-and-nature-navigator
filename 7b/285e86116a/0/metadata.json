@@ -1,0 +1,44 @@
+{
+  "cli_version": "0.13.1",
+  "checkpoint_id": "7b285e86116a",
+  "session_id": "01a1b672-de7c-7f23-8699-3a54164e62e3",
+  "strategy": "manual-commit",
+  "created_at": "2026-11-07T23:10:33.225605Z",
+  "branch": "codex/ask-ai-provider-recovery",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "backend/weatherlens_backend/assistant.py",
+    "frontend/src/App.jsx"
+  ],
+  "agent": "Codex",
+  "model": "gpt-6.1-sol",
+  "turn_id": "d44e9b2824c1",
+  "checkpoint_transcript_start": 4191,
+  "transcript_lines_at_start": 4191,
+  "compact_transcript_start": 803,
+  "token_usage": {
+    "input_tokens": 36977,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 2911232,
+    "output_tokens": 11865,
+    "api_call_count": 24,
+    "subagent_tokens_complete": true
+  },
+  "redaction": {
+    "replacements": 73347,
+    "layers": {
+      "betterleaks": 36,
+      "connection_string": 0,
+      "credential_key": 0,
+      "credential_value": 150,
+      "credentialed_uri": 0,
+      "entropy": 75493,
+      "key_context": 0,
+      "provider_token": 0,
+      "shell_stdin": 0
+    }
+  },
+  "session_metrics": {
+    "turn_count": 12
+  }
+}
